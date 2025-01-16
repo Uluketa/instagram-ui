@@ -1,4 +1,4 @@
-# Instagram Clone (Work in Progress)
+# Instagram Clone
 
 This project aims to replicate the Instagram app using React Native Expo. It's a work in progress and is currently under development.
 
